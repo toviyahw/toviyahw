@@ -3,26 +3,12 @@
 
 
 
-## About Me
+## {About Me}
+As a senior studying data science, I am driven by a deep curiosity to uncover the stories hidden within data. I enjoy solving problems, exploring patterns, and transforming raw information into actionable insights. Throughout my academic journey, I’ve gathered skills in data cleaning, analysis, visualization, database creation, and programming. These are skills which I aim to refine and expand upon through a series of personal projects documented here! Outside of academics, I spend my time playing tennis and reading books about other worlds!
 
+## {My Skills}
 
-## My Skills
+## {I'm Currently Working On}
 
-## I'm Currently Working On
+## {Contact Me}
 
-## Contact Me
-
-<!--
-**toviyahw/toviyahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
