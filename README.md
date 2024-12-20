@@ -1,8 +1,5 @@
 ![readmebanner](https://github.com/user-attachments/assets/dc13aae0-60b2-42e9-a0c3-2b6843ebd504)
 
-
-
-
 ## About Me
 As a senior studying Informatics with a concentration in data science, I am driven by a deep curiosity to uncover the stories hidden within data. I enjoy solving problems, exploring patterns, and transforming raw information into actionable insights. Throughout my academic journey, I’ve gathered skills in data cleaning, analysis, visualization, database creation, and programming for data science. These are skills which I aim to refine and expand upon through a series of personal projects documented here! Outside of academics, I spend my time playing tennis, watching crime procedurals, and reading books about other worlds!
 
@@ -52,8 +49,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 * Learn R programming language via DataCamp and Coursera.
 
 ## Get in Touch
-Email: toviyahwilliams@gmail.com  
-LinkedIn: www.linkedin.com/in/toviyahwilliams
+**Email:** toviyahwilliams@gmail.com  
+**LinkedIn:** www.linkedin.com/in/toviyahwilliams
 
-
-
+![bottombanner](https://github.com/user-attachments/assets/720b911d-ea0e-48c4-86be-2ff086ca2176)
