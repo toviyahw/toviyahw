@@ -1,4 +1,5 @@
-![readmebanner](https://github.com/user-attachments/assets/dc13aae0-60b2-42e9-a0c3-2b6843ebd504)
+<img width="960" alt="profile banner" src="https://github.com/user-attachments/assets/60664aa6-df15-4a4e-a0d8-95f387a209af" />
+
 
 ## About Me
 As a senior studying Informatics with a concentration in data science, I am driven by a deep curiosity to uncover the stories hidden within data. I enjoy investigating and solving complex problems, exploring patterns, and transforming raw information into actionable insights. Throughout my academic journey, I’ve gathered skills in data cleaning, analysis, visualization, database creation, and programming. These are skills which I aim to refine and expand upon through a series of personal projects documented here! Outside of academics, I spend my time playing tennis🎾, watching crime procedurals🕵🏼‍♂️, and reading books about other worlds🧙🏾🐉!
