@@ -41,7 +41,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 
 ## I'm Currently Working On
 * Completing documentation for my first personal project Novel Nexus, which is currently a work in progress.
-* Completing SQL and Python exercises to become more comfortable with the languages.
+* Completing data science and data analytics professional certificates from IBM and Google, respectively. 
 * Planning future personal projects with focuses in machine learning, data visualization, and data cleaning.
 
 ## Future Plans
