@@ -49,7 +49,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 * Learn R programming language via DataCamp and Coursera.
 
 ## Get in Touch
-**Email:** toviyahwilliams@gmail.com  
-**LinkedIn:** www.linkedin.com/in/toviyahwilliams
+[Email](toviyahwilliams@gmail.com)  
+[LinkedIn](www.linkedin.com/in/toviyahwilliams)
 
 ![bottombanner](https://github.com/user-attachments/assets/720b911d-ea0e-48c4-86be-2ff086ca2176)
