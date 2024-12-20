@@ -2,7 +2,7 @@
 
 
 ## About Me
-As a senior studying Informatics with a concentration in data science, I am driven by a deep curiosity to uncover the stories hidden within data. I enjoy investigating and solving complex problems, exploring patterns, and transforming raw information into actionable insights. Throughout my academic journey, I’ve gathered skills in data cleaning, analysis, visualization, database creation, and programming. These are skills which I aim to refine and expand upon through a series of personal projects documented here! Outside of academics, I spend my time playing tennis🎾, watching crime procedurals🕵🏼‍♂️, and reading books about other worlds🧙🏾🐉!
+As a senior studying Informatics with a concentration in data science, I am driven by a deep curiosity to uncover the stories hidden within data. I enjoy investigating and solving complex problems, exploring patterns, and transforming raw information into actionable insights. Throughout my academic journey, I’ve gathered skills in data cleaning, analysis, visualization, database creation, and programming. These are skills that I aim to refine and expand upon through a series of personal projects documented here! Outside of academics, I spend my time playing tennis🎾, watching crime procedurals🕵🏼‍♂️, and reading books about other worlds🧙🏾🐉!
 
 ## My Skills
 ![Python Icon](https://github.com/user-attachments/assets/8ef87a2b-6d38-473f-8433-f05d79c1f1e1)
@@ -20,7 +20,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 * Applying formatting and design best practices to create appealing, user-friendly visuals.
 * Capturing relationships in visuals to communicate data insights.
 * Design calculated fields, parameters, and filters to customize data views and enhance analysis.
-* Creating interactive and insightful dashboards by connecting .
+* Creating interactive and insightful dashboards.
 
 **PostgreSQL:**
 * Creating ER Diagrams to plan and structure efficient database systems.
@@ -46,7 +46,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 
 ## Future Plans
 * Continue exercises in Python, SQL, and Tableau to further bolster my skills.
-* Continue studying academic material on machine learning and realtional database design, creation, and management.
+* Continue studying academic material centered around machine learning as well as relational database design, creation, and management.
 * Learn R programming language via DataCamp and Coursera.
 
 ## Get in Touch
