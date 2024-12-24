@@ -32,7 +32,7 @@ As a senior studying Informatics with a concentration in data science, I am driv
 * Data cleaning and transformation tasks using Excel’s built-in features like Text to Columns, Flash Fill, and Find & Replace.
 * Creating and managing spreadsheets for data analysis and reporting.
 * Utilizing pivot tables and charts for summarizing, analyzing, and visualizing data.
-* Familiar with advanced functions, sorting, filtering, grouping, and data validation techniques to ensure data quality and integrity.
+* Familiar with advanced functions, sorting, filtering, grouping, and data validation techniques to ensure data quality.
 
 **Figma:**
 * Creating high-fidelity mockups, wireframes, and design systems for web and mobile applications.
