@@ -11,33 +11,6 @@ As a senior studying Informatics with a concentration in data science, I am driv
 ![Excel Icon](https://github.com/user-attachments/assets/21bc81bf-1030-4e8d-b6e8-6460d0b428a3)
 ![Figma Icon](https://github.com/user-attachments/assets/63119f01-015a-488a-ad57-8c7b8b148baa)
 
-**Python:**
-* Data preprocessing and analysis using Pandas.
-* Creating visuals using various libraries like Matplotlib, Seaborn, and Plotly {work in progress}.
-* Working with and training machine learning models {work in progress}.
-
-**Tableau:**
-* Applying formatting and design best practices to create appealing, user-friendly visuals.
-* Capturing relationships in visuals to communicate data insights.
-* Design calculated fields, parameters, and filters to customize data views and enhance analysis.
-* Creating interactive and insightful dashboards.
-
-**PostgreSQL:**
-* Creating ER Diagrams to plan and structure efficient database systems.
-* Writing queries for table creation and data insertion.
-* Performing simple and complex joins to answer specific questions.
-* Creating stored procedures.
-
-**Excel:**
-* Data cleaning and transformation tasks using Excel’s built-in features like Text to Columns, Flash Fill, and Find & Replace.
-* Creating and managing spreadsheets for data analysis and reporting.
-* Utilizing pivot tables and charts for summarizing, analyzing, and visualizing data.
-* Familiar with advanced functions, sorting, filtering, grouping, and data validation techniques to ensure data quality.
-
-**Figma:**
-* Creating high-fidelity mockups, wireframes, and design systems for web and mobile applications.
-* Using components and auto-layouts to streamline design processes and ensure consistency across designs.
-* Using prototyping features, including transitions, interactions, and animations to design interactive user interfaces.
 
 ## I'm Currently Working On
 * Completing documentation for my first personal project Novel Nexus, which is currently a work in progress.
