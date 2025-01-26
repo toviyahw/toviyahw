@@ -12,16 +12,6 @@ As a senior studying Informatics with a concentration in data science, I am driv
 ![Figma Icon](https://github.com/user-attachments/assets/63119f01-015a-488a-ad57-8c7b8b148baa)
 
 
-## I'm Currently Working On
-* Completing documentation for my first personal project Novel Nexus, which is currently a work in progress.
-* Completing data science and data analytics professional certificates from IBM and Google, respectively. 
-* Planning future personal projects with focuses in machine learning, data visualization, and data cleaning.
-
-## Future Plans
-* Continue exercises in Python, SQL, and Tableau to further bolster my skills.
-* Continue studying academic material centered around machine learning as well as relational database design, creation, and management.
-* Learn R programming language via DataCamp and Coursera.
-
 ## Get in Touch
 **Email:** toviyahwilliams@gmail.com  
 **LinkedIn:** www.linkedin.com/in/toviyahwilliams
