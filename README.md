@@ -4,7 +4,7 @@
 ## About Me
 I recently graduated from the University of Texas at Austin with a degree in Informatics (Data Science concentration). I’m drawn to the kind of work that starts messy — unstructured data, open-ended questions — and leads to new questions, clearer answers, and ultimately, better decisions. Whether I’m cleaning a dataset, building a model, or developing a dashboard, I enjoy using data to ask the right questions and follow where the answers lead.
 
-This GitHub is where I document the stuff I’m building to keep learning! When I’m not working with data, I’m probably playing tennis 🎾, watching crime procedurals 🕵🏼‍♂️, or reading about dragons 🧙🏾🐉.
+This GitHub is where I document the stuff I’m building to keep learning! When I’m not working with data, I’m probably playing tennis 🎾, watching crime procedurals 🕵🏼‍♂️, or reading about other worlds 🧙🏾🐉.
 
 
 
